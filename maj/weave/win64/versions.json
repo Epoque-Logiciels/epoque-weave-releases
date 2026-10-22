@@ -1,0 +1,18 @@
+{
+  "format": 1,
+  "produit": "Epoque Weave",
+  "versions": [
+    {
+      "version": "0.2.2-alpha",
+      "date": "2026-10-22",
+      "canal": "beta",
+      "schema_min": 1,
+      "schema_max": 1,
+      "url_archive": "https://github.com/Epoque-Logiciels/epoque-weave-releases/releases/download/v0.2.2-alpha/Epoque-Weave-0.2.2-alpha-win64.zip",
+      "sha256": "17251f613b0f9b55142b776786de61cf027b898d87232d87eb96c7a465433574",
+      "url_signature": "https://github.com/Epoque-Logiciels/epoque-weave-releases/releases/download/v0.2.2-alpha/Epoque-Weave-0.2.2-alpha-win64.zip.asc",
+      "url_notes": "https://epoque-weave.com/releases/0.2.2-alpha",
+      "octets": 50616380
+    }
+  ]
+}
