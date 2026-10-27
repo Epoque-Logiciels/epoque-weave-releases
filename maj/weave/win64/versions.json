@@ -13,6 +13,18 @@
       "url_signature": "https://github.com/Epoque-Logiciels/epoque-weave-releases/releases/download/v0.2.2-alpha/Epoque-Weave-0.2.2-alpha-win64.zip.asc",
       "url_notes": "https://epoque-weave.com/releases/0.2.2-alpha",
       "octets": 50616380
+    },
+    {
+      "version": "0.2.3-alpha",
+      "date": "2026-10-27",
+      "canal": "beta",
+      "schema_min": 1,
+      "schema_max": 1,
+      "url_archive": "https://github.com/Epoque-Logiciels/epoque-weave-releases/releases/download/v0.2.3-alpha/Epoque-Weave-0.2.3-alpha-win64.zip",
+      "sha256": "8986428c293a02b72f67e10f6e78ad949788afce4029b3b37e4efb43de0c4726",
+      "url_signature": "https://github.com/Epoque-Logiciels/epoque-weave-releases/releases/download/v0.2.3-alpha/Epoque-Weave-0.2.3-alpha-win64.zip.asc",
+      "url_notes": "https://epoque-weave.com/releases/0.2.3-alpha",
+      "octets": 50618839
     }
   ]
 }
